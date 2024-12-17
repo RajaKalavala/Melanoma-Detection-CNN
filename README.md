@@ -23,7 +23,7 @@ The objective of this project is to build a model that can detect melanoma in sk
 - Numpy - version 1.26.4
 - Matplotlib - version 3.7.1
 - Seaborn - version 0.13.2
-- Tensorflow - version 2.12.0
+- Tensorflow - version 2.18.0
 
 ## Conclusions
 
